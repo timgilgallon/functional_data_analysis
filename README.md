@@ -23,6 +23,7 @@ Analyzes ankle, knee, and hip angles in sagittal and frontal planes during the s
 ---
 
 ## Example Output
+An example output from this code is provided below, this ouput can be created for any joint across any plane.
 
 ![Sagittal Plane Walking](output/fda.png)
 
