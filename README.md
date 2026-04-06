@@ -2,7 +2,7 @@
 
 # Functional Data Analysis: Lower Extremity Kinematics
 
-Functional data analysis (FDA) of lower extremity joint angles during walking and single leg squat tasks. Compares PRE vs POST conditions using B-spline smoothing with pointwise 95% confidence intervals to identify regions of significant difference across the movement cycle.
+Functional data analysis (FDA) of lower extremity joint angles during walking and single leg squat tasks. Compares PRE vs POST pain provoking protocol conditions using B-spline smoothing with pointwise 95% confidence intervals to identify regions of significant difference across the movement cycle.
 
 ---
 
