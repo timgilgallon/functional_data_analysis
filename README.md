@@ -24,7 +24,7 @@ Analyzes ankle, knee, and hip angles in sagittal and frontal planes during the s
 
 ## Example Output
 
-![Sagittal Plane Walking](output/walking_sagittal_plane.png)
+![Sagittal Plane Walking](output/fda.png)
 
 ---
 
